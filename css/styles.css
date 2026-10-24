@@ -1224,7 +1224,6 @@ button {
   height: 100%;
   min-height: 420px;
   border: 0;
-  filter: grayscale(1) invert(0.9) contrast(0.85) brightness(0.95);
 }
 
 @media (max-width: 900px) {

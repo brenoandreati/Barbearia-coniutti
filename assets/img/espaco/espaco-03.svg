@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Produtos — foto em breve">
+<rect width="800" height="800" fill="#13222d"/>
+<rect x="0.0" y="0" width="800" height="496.0" fill="#16293a"/>
+<g fill="#16293a" opacity="1"><rect x="0" y="496.0" width="800" height="15.2"/><rect x="0" y="515.0" width="800" height="15.2"/><rect x="0" y="534.0" width="800" height="15.2"/><rect x="0" y="553.0" width="800" height="15.2"/><rect x="0" y="572.0" width="800" height="10.5"/><rect x="0" y="591.0" width="800" height="10.5"/><rect x="0" y="610.0" width="800" height="10.5"/><rect x="0" y="629.0" width="800" height="10.5"/><rect x="0" y="648.0" width="800" height="6.3"/><rect x="0" y="667.0" width="800" height="6.3"/><rect x="0" y="686.0" width="800" height="6.3"/><rect x="0" y="705.0" width="800" height="6.3"/><rect x="0" y="724.0" width="800" height="2.3"/><rect x="0" y="743.0" width="800" height="2.3"/><rect x="0" y="762.0" width="800" height="2.3"/><rect x="0" y="781.0" width="800" height="2.3"/></g>
+<rect x="24" y="24" width="752" height="752" fill="none" stroke="#2c4252" stroke-width="2"/>
+<text x="400.0" y="352.0" text-anchor="middle" font-family="'Big Shoulders Display','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="88" letter-spacing="4" fill="#eef1ee">PRODUTOS</text>
+<text x="400.0" y="416" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" letter-spacing="6" fill="#9aa9b2">FOTO EM BREVE</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Barba — foto em breve">
+<rect width="800" height="1000" fill="#13222d"/>
+<rect x="0.0" y="0" width="800" height="620.0" fill="#16293a"/>
+<g fill="#16293a" opacity="1"><rect x="0" y="620.0" width="800" height="19.0"/><rect x="0" y="643.8" width="800" height="19.0"/><rect x="0" y="667.5" width="800" height="19.0"/><rect x="0" y="691.2" width="800" height="19.0"/><rect x="0" y="715.0" width="800" height="13.1"/><rect x="0" y="738.8" width="800" height="13.1"/><rect x="0" y="762.5" width="800" height="13.1"/><rect x="0" y="786.2" width="800" height="13.1"/><rect x="0" y="810.0" width="800" height="7.8"/><rect x="0" y="833.8" width="800" height="7.8"/><rect x="0" y="857.5" width="800" height="7.8"/><rect x="0" y="881.2" width="800" height="7.8"/><rect x="0" y="905.0" width="800" height="2.9"/><rect x="0" y="928.8" width="800" height="2.9"/><rect x="0" y="952.5" width="800" height="2.9"/><rect x="0" y="976.2" width="800" height="2.9"/></g>
+<rect x="24" y="24" width="752" height="952" fill="none" stroke="#2c4252" stroke-width="2"/>
+<text x="400.0" y="440.0" text-anchor="middle" font-family="'Big Shoulders Display','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="88" letter-spacing="4" fill="#eef1ee">BARBA</text>
+<text x="400.0" y="504" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" letter-spacing="6" fill="#9aa9b2">FOTO EM BREVE</text>
+</svg>

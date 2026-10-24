@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="O espaço — foto em breve">
+<rect width="1200" height="900" fill="#13222d"/>
+<rect x="0.0" y="0" width="1200" height="558.0" fill="#16293a"/>
+<g fill="#16293a" opacity="1"><rect x="0" y="558.0" width="1200" height="17.1"/><rect x="0" y="579.4" width="1200" height="17.1"/><rect x="0" y="600.8" width="1200" height="17.1"/><rect x="0" y="622.1" width="1200" height="17.1"/><rect x="0" y="643.5" width="1200" height="11.8"/><rect x="0" y="664.9" width="1200" height="11.8"/><rect x="0" y="686.2" width="1200" height="11.8"/><rect x="0" y="707.6" width="1200" height="11.8"/><rect x="0" y="729.0" width="1200" height="7.1"/><rect x="0" y="750.4" width="1200" height="7.1"/><rect x="0" y="771.8" width="1200" height="7.1"/><rect x="0" y="793.1" width="1200" height="7.1"/><rect x="0" y="814.5" width="1200" height="2.6"/><rect x="0" y="835.9" width="1200" height="2.6"/><rect x="0" y="857.2" width="1200" height="2.6"/><rect x="0" y="878.6" width="1200" height="2.6"/></g>
+<rect x="24" y="24" width="1152" height="852" fill="none" stroke="#2c4252" stroke-width="2"/>
+<text x="600.0" y="396.0" text-anchor="middle" font-family="'Big Shoulders Display','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="132" letter-spacing="4" fill="#eef1ee">O ESPAÇO</text>
+<text x="600.0" y="492" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" letter-spacing="6" fill="#9aa9b2">FOTO EM BREVE</text>
+</svg>

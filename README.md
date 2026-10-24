@@ -44,11 +44,16 @@ Use fotos em pé (proporção 4:5, como no Instagram) na galeria. Em "O espaço"
 
 ## Publicar o site
 
-**GitHub Pages (grátis):** no repositório, vá em *Settings → Pages*, escolha *Deploy from a branch*, selecione a branch e a pasta `/ (root)` e salve. Em alguns minutos o site fica no ar em `https://<usuario>.github.io/<repositorio>/`.
+O site está no ar no **Cloudflare Pages**: https://barbearia-coniutti.pages.dev
 
-**Netlify ou Vercel (grátis):** importe o repositório ou arraste a pasta do projeto para o painel. Não precisa configurar build.
+Para publicar uma nova versão depois de alterar os arquivos (precisa estar logado no Cloudflare com `npx wrangler login`):
 
-Depois de ter o domínio final (ex.: `barbeariaconiutti.com.br`), troque os caminhos relativos de `og:image` e do `image` no JSON-LD do `index.html` pelo endereço completo, para a imagem aparecer certinho ao compartilhar o link.
+```sh
+mkdir -p dist && cp -r index.html robots.txt sitemap.xml css js assets dist/
+npx wrangler pages deploy dist --project-name barbearia-coniutti --branch main
+```
+
+Para usar um domínio próprio (ex.: `barbeariaconiutti.com.br`), vá em *Workers & Pages → barbearia-coniutti → Custom domains*. Depois, troque `https://barbearia-coniutti.pages.dev/` pelo novo endereço no `index.html` (canonical, `og:url`, `og:image` e JSON-LD).
 
 ## O que ainda falta
 
